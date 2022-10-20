@@ -1,8 +1,27 @@
 body {
   text-align: center;
+  background-color:darkgoldenrod;
+  padding-top: 30px;
+  font-weight: bold;
 }
 
 .hidden {
   display: none;
 }
 
+#equal {
+  padding-top: 20px;
+}
+
+#iso {
+  padding-top: 20px;
+}
+
+#sca {
+  padding-top: 20px;
+}
+
+img {
+  height: 400px;
+  width: 550px;
+}
